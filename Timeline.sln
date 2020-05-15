@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timeline", "Timeline\Timeline.csproj", "{3BD3150E-C869-460C-A4A4-E1E1E2531B41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timeline.Models", "Timeline.Models\Timeline.Models.csproj", "{F79499C7-DB7C-4399-A028-CF29072C9CBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BD3150E-C869-460C-A4A4-E1E1E2531B41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BD3150E-C869-460C-A4A4-E1E1E2531B41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BD3150E-C869-460C-A4A4-E1E1E2531B41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BD3150E-C869-460C-A4A4-E1E1E2531B41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F79499C7-DB7C-4399-A028-CF29072C9CBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F79499C7-DB7C-4399-A028-CF29072C9CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F79499C7-DB7C-4399-A028-CF29072C9CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F79499C7-DB7C-4399-A028-CF29072C9CBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F571AD08-23D4-452F-97FF-ED425F2BE78A}
+	EndGlobalSection
+EndGlobal
